@@ -1,0 +1,20 @@
+div{
+    background-color: black;
+    height:60px;
+    width:100%;
+    font-size:30px ;
+    display:flex;
+    gap:200px;
+    border-color: aliceblue;
+    border-style: solid;
+    border-size: 1px;
+    
+}
+a:hover{
+    color:red;
+}
+
+button{
+    background-color:  #f08804;
+}
+
