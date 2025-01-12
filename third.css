@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* background-image: url("https://cdn.dribbble.com/users/434034/screenshots/6763773/perfect-purple-social-media-template-pack-for-instagram-tumblr-aesthetic_4x.jpg");
+}  */
+body,html{
+    height:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color:bisque
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    min-height:100vh;
+    background-image:url("https://cdn.dribbble.com/users/434034/screenshots/6763773/perfect-purple-social-media-template-pack-for-instagram-tumblr-aesthetic_4x.jpg");
+} ") ;
+    
+}
+header{
+    background-color:violet;
+    padding:10px 20px;
+    color:white;
+    text-align:center;
+    height:2px;
+    /* background-image:url("http://upload.wikimedia.org/wikipedia/commons/e/ed/Orange_flowers.JPG") ;
+     */
+}
+.content{
+    flex:1;
+    padding:20px;
+    color:darkslateblue;
+    text-align:center;
+    background-image: url("https://wallpaperaccess.com/full/1556608.jpg");
+    background-size:100% ;
+    background-position: 0svb;
+}
+.footer{
+    background-color:darkolivegreen;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
+#about{
+    text-align: center;
+    color:darkslateblue
+}
